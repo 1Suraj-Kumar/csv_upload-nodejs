@@ -18,7 +18,7 @@
 </ul>
 
 <h2>Run the code</h2> <br>
-    $ git clone https://github.com/abhishekdangi006/Csv-Upload-nodejs <br>
+
     $ cd Csv-Upload-nodejs <br>
     $ npm install <br>
     $ npm start <br>
